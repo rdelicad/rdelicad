@@ -71,5 +71,8 @@ If you share my interests or just want to make a connection in the tech world, f
 ![GitHub](https://github-readme-stats.vercel.app/api?username=rdelicad&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelicad)](https://github.com/anuraghazra/github-readme-stats)
 ---
+<br>
+<br>
+
 
 

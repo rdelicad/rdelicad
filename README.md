@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
   > “ Si por la noche lloras por no ver el sol, las lágrimas te impedirán ver las estrellas ” -Tagore.
 <div id="header" align="center" >
   <img src="https://github.com/rdelicad/rdelicad/blob/main/rdelicad%40gmail.com.png" />

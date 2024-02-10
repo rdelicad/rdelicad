@@ -67,10 +67,11 @@ I love programming and exploring the exciting world of cybersecurity. I am alway
 If you share my interests or just want to make a connection in the tech world, feel free to contact me! I'm open to collaborations, technical discussions and joint learning opportunities.
 
 *Thanks for visiting my GitHub profile and I hope to have the opportunity to connect with you in the future!*
-<br>
+---
+
 ![GitHub](https://github-readme-stats.vercel.app/api?username=rdelicad&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelicad)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
 
 
 

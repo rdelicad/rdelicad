@@ -70,8 +70,8 @@ If you share my interests or just want to make a connection in the tech world, f
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rdelicad&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelicad&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdelicad&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelicad&layout=compact)
 
 
 

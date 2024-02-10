@@ -31,17 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,angular,docker,gmail,html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,linux,cpp,mysql,bash,lua,md,neovim" /><br>
 </div>
-<div align="left">
-  <h3>🔨 Languages and toolss</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
-  </div>
 
 ---
 ### 🎓  Student at 42 Malaga:

@@ -69,9 +69,10 @@ If you share my interests or just want to make a connection in the tech world, f
 *Thanks for visiting my GitHub profile and I hope to have the opportunity to connect with you in the future!*
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rdelicad&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdelicad&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelicad&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rdelicad&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 

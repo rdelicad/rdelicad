@@ -47,7 +47,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,gmail,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,typescript,linux,c,cpp,mysql,bash,md,neovim" /><br>
+    <img src="https://skillicons.dev/icons?i=python,linux,c,cpp,mysql,bash,md,neovim,asm" /><br>
 </div>
 
 ---

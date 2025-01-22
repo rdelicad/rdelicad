@@ -47,7 +47,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,html,css,js" />
-    <img src="https://skillicons.dev/icons?i=python,linux,c,cpp,mysql,bash,md,assembly" /><br>
+    <img src="https://skillicons.dev/icons?i=python,linux,c,cpp,mysql,bash,md,assembly"/>
+    <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=asm&logoColo/> <br>
 </div>
 
 ---

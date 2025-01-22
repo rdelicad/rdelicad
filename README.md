@@ -48,8 +48,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,html,css,js" />
     <img src="https://skillicons.dev/icons?i=python,linux,c,cpp,mysql,bash,md,assembly"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d809d3becbe09a89e658b7b4e5315d5a9b1/icons/Assembly-Dark.svg" width="48" height="48" />
-    <br>
+    <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=asm&logoColor=white" />
 </div>
 
 ---
